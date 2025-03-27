@@ -1,4 +1,3 @@
-SAFRONII VEACESLAV 325-CD
 
 # TEMA 1 - DATAPLANE ROUTER
 Rezolvarea temei a fost bazata pe rezolvarea laboratorului 4
