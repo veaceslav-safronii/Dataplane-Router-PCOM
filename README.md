@@ -1,6 +1,5 @@
 
 # TEMA 1 - DATAPLANE ROUTER
-Rezolvarea temei a fost bazata pe rezolvarea laboratorului 4
 
 
 ## ---Forwarding--
